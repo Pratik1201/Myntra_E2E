@@ -1,1 +1,2 @@
 The project consists end to end testing of shopping website
+Goto the folder - src/test/java/com/myntra
